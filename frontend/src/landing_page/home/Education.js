@@ -9,10 +9,10 @@ import React from 'react'
                   <div className="col-6">
                      <h1>Free and open market education</h1>
                     <p>Education details will be here</p>
-                    <a href="" style={{textDecoration:"none"}}> Varsity</a>
+                    <a href="/" style={{textDecoration:"none"}}> Varsity</a>
                     <br/>
                     <p>Treading Q&A </p>
-                    <a href="" style={{textDecoration:"none"}}> Treading Q&A</a>
+                    <a href="/" style={{textDecoration:"none"}}> Treading Q&A</a>
                   </div>
             </div>
         </div>
