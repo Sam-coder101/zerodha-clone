@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 function Pricing() {
     return ( 
         <div className="container">
@@ -6,7 +7,7 @@ function Pricing() {
                 <div className="col-4">
                     <h1>Unbeatable Pricing</h1>
                     <p>pricing details will be here</p>
-                    <a href="">See Pricing</a>
+                    <Link to="/pricing">See Pricing</Link>
                 </div>
                 <div className="col-2"></div>
                 <div className="col-6">
