@@ -34,7 +34,7 @@ function Universe() {
           <img src="media/image/smallcaseLogo.png" alt="Smallcase Logo" />
           <p className="text-small text-muted">Thematic investment platform</p>
         </div>
-        <button
+        <button onClick={() => window.location.href = "https://zerodha-clone-dashboard-gamma.vercel.app/"}
           className="p-2 btn btn-primary fs-5 mb-5"
           style={{ width: "20%", margin: "0 auto" }}
         >
